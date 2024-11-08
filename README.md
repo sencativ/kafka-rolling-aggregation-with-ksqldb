@@ -14,11 +14,11 @@ The project is designed to demonstrate real-time data ingestion and streaming us
 # Results
 
 - Table in ksqldb
-  ![https://cdn.discordapp.com/attachments/716655315613122670/1304466304098500608/Result_in_Consumer.png?ex=672f7e6a&is=672e2cea&hm=06181e383a4256eaa4f5089ce43b50a731cbba96f7bdc3f36e6d656b91faf83b&](ksqldb)
+  ![ksqldb](https://cdn.discordapp.com/attachments/716655315613122670/1304466304098500608/Result_in_Consumer.png?ex=672f7e6a&is=672e2cea&hm=06181e383a4256eaa4f5089ce43b50a731cbba96f7bdc3f36e6d656b91faf83b&)
 - Result in producer
-  ![https://cdn.discordapp.com/attachments/716655315613122670/1304466304539033710/Screenshot_2024-11-08_221205.png?ex=672f7e6a&is=672e2cea&hm=defc743cc3f2fa42b70559707737db6b662e2a8585072a15065143d95b28c07c&](producer)
+  ![producer](https://cdn.discordapp.com/attachments/716655315613122670/1304466304539033710/Screenshot_2024-11-08_221205.png?ex=672f7e6a&is=672e2cea&hm=defc743cc3f2fa42b70559707737db6b662e2a8585072a15065143d95b28c07c&)
 - Result in consumer
-  ![https://cdn.discordapp.com/attachments/716655315613122670/1304466304928976998/stream-to-ksqldb.png?ex=672f7e6a&is=672e2cea&hm=ca16110531c7bb28e3b70a72fc2435073a4f4474e4eafb6a5b73fc008225265e&](consumer)
+  ![consumer](https://cdn.discordapp.com/attachments/716655315613122670/1304466304928976998/stream-to-ksqldb.png?ex=672f7e6a&is=672e2cea&hm=ca16110531c7bb28e3b70a72fc2435073a4f4474e4eafb6a5b73fc008225265e&)
 
 # Installation
 
